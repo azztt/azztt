@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi
+I am a person of widespread interests involving electronics and development, unsurprisingly a senior undergraduate in Electrical Engieering (Power and Automation) at IIT Delhi, India where I am also a part of the student developer club (find it here: https://devclub.in/) and primarily involved in frontend web dev. I am currently working as a summer intern at Wells Fargo. I don't use much of a social media (yeah, no facebook, insta or twitter), so don't bother searching me there. You can connect with me on LinkedIn though: https://www.linkedin.com/in/anweshanbor/
 
+Have a good idea to collaborate? Feel free to contact me via email.
+
+(By the way, how do you pronounce this file's name in past tense? :P)
 <!--
 **azztt/azztt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
