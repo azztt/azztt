@@ -7,7 +7,7 @@ Have a good idea to collaborate? Feel free to contact me via email.
 
 ### 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azztt&layout=compact&custom_title=Popular Languages&theme=gotham&langs_count=7"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=azztt&count_private=true&include_all_commits=true&theme=gotham&show_icons=true&line_height=24.6"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=azztt&count_private=true&include_all_commits=true&theme=gotham&show_icons=true&line_height=24.6"/>
 
 <!-- ![Anweshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=azztt&count_private=true&include_all_commits=true&theme=gotham&show_icons=true) -->
 
